@@ -25,7 +25,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Platform | High | Medium | Low / QA | Total |
 |---|---:|---:|---:|---:|
-| Code4rena | 2 | 6 | 12 | 19 |
+| Code4rena | 2 | 7 | 11 | 20 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
 | Other | 0 | 0 | 0 | 0 |
@@ -53,6 +53,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | 2025-11 | Code4rena | Swafe | Rust / Partisia / Account Recovery | Low | [S-538: Unauthorized email association overwrite allows recovery hijack](./code4rena/2025-11-swafe/S-538-L-unauthorized-email-association-overwrite-allows-recovery-hijack.md) | [Official Report](https://code4rena.com/reports/2025-11-swafe), [Submission S-538](https://code4rena.com/audits/2025-11-swafe/submissions/S-538) |
 | 2025-11 | Code4rena | Ekubo | EVM / Solidity / AMM / Oracle | Medium | [S-1065: Unrestricted expandCapacity overwrites oracle storage, permanently bricking](./code4rena/2025-11-ekubo/S-1065-M-unrestricted-expandcapacity-overwrites-oracle-storage-permanently-bricking.md) | [Official Report](https://code4rena.com/reports/2025-11-ekubo), [Submission S-1065](https://code4rena.com/audits/2025-11-ekubo/submissions/S-1065) |
 | 2025-11 | Code4rena | Garden | Multichain / EVM / Solidity / Bitcoin Bridge | Low | [S-156: transfer to contracts can permanently lock ETH](./code4rena/2025-11-garden/S-156-L-transfer-to-contracts-can-permanently-lock-eth.md) | [Official Report](https://code4rena.com/reports/2025-11-garden), [Submission S-156](https://code4rena.com/audits/2025-11-garden/submissions/S-156) |
+| 2026-03 | Code4rena | Chainlink Payment Abstraction V2 | EVM / Solidity / Chainlink | Medium | [M-01: Medium finding — details withheld](./code4rena/2026-03-chainlink-payment-abstraction-v2/M-01-private-medium-finding-details-withheld.md) | [Official Audit Page](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
 ## Platforms
 
 This portfolio may include findings from:
