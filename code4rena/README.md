@@ -11,7 +11,7 @@ I use this section to document my Code4rena security research work, including Hi
 | High | 2 |
 | Medium | 7 |
 | Low / QA | 11 |
-| Total | 19 |
+| Total | 20 |
 
 ## Findings
 
