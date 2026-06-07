@@ -25,10 +25,9 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Platform | High | Medium | Low / QA | Total |
 |---|---:|---:|---:|---:|
-| Code4rena | 0 | 0 | 1 | 1 |
+| Code4rena | 2 | 4 | 2 | 8 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
-| Immunefi | 0 | 0 | 0 | 0 |
 | Other | 0 | 0 | 0 | 0 |
 
 ## Findings
@@ -36,7 +35,13 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | Date | Platform | Project | Ecosystem | Severity | Finding | References |
 |---|---|---|---|---|---|---|
 | 2025-10 | Code4rena | Covenant | Solidity / DeFi | Low | [L-01: Undercollateralized aToken may be incorrectly priced as positive](./code4rena/2025-10-covenant/L-01-undercollateralized-atoken-may-be-incorrectly-priced-as-positive.md) | [Official Report](https://code4rena.com/reports/2025-10-covenant), [Submission](https://code4rena.com/audits/2025-10-covenant/submissions/S-554) |
-
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | High | [S-458: Missing admin check allows unauthorized cost reconfiguration](./code4rena/2025-10-reflector-v3/S-458-H-missing-admin-check-allows-unauthorized-cost-reconfiguration.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-458](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-458) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | High | [S-453: Missing admin check allows unauthorized fee changes](./code4rena/2025-10-reflector-v3/S-453-H-missing-admin-check-allows-unauthorized-fee-changes.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-453](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-453) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-457: Incorrect TWAP fee scaling allows underpayment exploitation](./code4rena/2025-10-reflector-v3/S-457-M-incorrect-twap-fee-scaling-allows-underpayment-exploitation.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-457](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-457) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-459: Unbounded fee scaling causes user overcharge risk](./code4rena/2025-10-reflector-v3/S-459-M-unbounded-fee-scaling-causes-user-overcharge-risk.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-459](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-459) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-463: Overcharging occurs because records exceed capped limit](./code4rena/2025-10-reflector-v3/S-463-M-overcharging-occurs-because-records-exceed-capped-limit.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-463](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-463) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-464: x_prices overcharges requested records exceeding cap](./code4rena/2025-10-reflector-v3/S-464-M-x-prices-overcharges-requested-records-exceeding-cap.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-464](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-464) |
+| 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Low | [S-462: Divisor scaling causes zero panic and incorrect floor](./code4rena/2025-10-reflector-v3/S-462-L-divisor-scaling-causes-zero-panic-and-incorrect-floor.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-462](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-462) |
 ## Platforms
 
 This portfolio may include findings from:
@@ -44,7 +49,6 @@ This portfolio may include findings from:
 - Code4rena
 - Sherlock
 - Cantina
-- Immunefi
 - Other public or private audit work where disclosure is allowed
 
 ## Disclosure Policy
