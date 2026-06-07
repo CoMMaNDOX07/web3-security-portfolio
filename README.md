@@ -25,7 +25,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Platform | High | Medium | Low / QA | Total |
 |---|---:|---:|---:|---:|
-| Code4rena | 2 | 6 | 10 | 18 |
+| Code4rena | 2 | 6 | 12 | 19 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
 | Other | 0 | 0 | 0 | 0 |
@@ -52,6 +52,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | 2025-11 | Code4rena | Swafe | Rust / Partisia / Account Recovery | Low | [S-546: Old backups break after multiple key rotations](./code4rena/2025-11-swafe/S-546-L-old-backups-break-after-multiple-key-rotations.md) | [Official Report](https://code4rena.com/reports/2025-11-swafe), [Submission S-546](https://code4rena.com/audits/2025-11-swafe/submissions/S-546) |
 | 2025-11 | Code4rena | Swafe | Rust / Partisia / Account Recovery | Low | [S-538: Unauthorized email association overwrite allows recovery hijack](./code4rena/2025-11-swafe/S-538-L-unauthorized-email-association-overwrite-allows-recovery-hijack.md) | [Official Report](https://code4rena.com/reports/2025-11-swafe), [Submission S-538](https://code4rena.com/audits/2025-11-swafe/submissions/S-538) |
 | 2025-11 | Code4rena | Ekubo | EVM / Solidity / AMM / Oracle | Medium | [S-1065: Unrestricted expandCapacity overwrites oracle storage, permanently bricking](./code4rena/2025-11-ekubo/S-1065-M-unrestricted-expandcapacity-overwrites-oracle-storage-permanently-bricking.md) | [Official Report](https://code4rena.com/reports/2025-11-ekubo), [Submission S-1065](https://code4rena.com/audits/2025-11-ekubo/submissions/S-1065) |
+| 2025-11 | Code4rena | Garden | Multichain / EVM / Solidity / Bitcoin Bridge | Low | [S-156: transfer to contracts can permanently lock ETH](./code4rena/2025-11-garden/S-156-L-transfer-to-contracts-can-permanently-lock-eth.md) | [Official Report](https://code4rena.com/reports/2025-11-garden), [Submission S-156](https://code4rena.com/audits/2025-11-garden/submissions/S-156) |
 ## Platforms
 
 This portfolio may include findings from:
