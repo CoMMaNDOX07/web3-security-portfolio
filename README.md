@@ -25,7 +25,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Platform | High | Medium | Low / QA | Total |
 |---|---:|---:|---:|---:|
-| Code4rena | 2 | 4 | 2 | 8 |
+| Code4rena | 2 | 4 | 6 | 12 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
 | Other | 0 | 0 | 0 | 0 |
@@ -42,6 +42,10 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-463: Overcharging occurs because records exceed capped limit](./code4rena/2025-10-reflector-v3/S-463-M-overcharging-occurs-because-records-exceed-capped-limit.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-463](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-463) |
 | 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Medium | [S-464: x_prices overcharges requested records exceeding cap](./code4rena/2025-10-reflector-v3/S-464-M-x-prices-overcharges-requested-records-exceeding-cap.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-464](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-464) |
 | 2025-10 | Code4rena | Reflector V3 | Stellar / Soroban / Rust | Low | [S-462: Divisor scaling causes zero panic and incorrect floor](./code4rena/2025-10-reflector-v3/S-462-L-divisor-scaling-causes-zero-panic-and-incorrect-floor.md) | [Official Report](https://code4rena.com/reports/2025-10-reflector-v3), [Submission S-462](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-462) |
+| 2025-11 | Code4rena | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-112: Events misreport deposits for rebasing tokens](./code4rena/2025-11-sequence-transaction-rails/S-112-L-events-misreport-deposits-for-rebasing-tokens.md) | [Official Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission S-112](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-112) |
+| 2025-11 | Code4rena | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-108: injectSweepAndCall miscalculates received tokens, causing reverts](./code4rena/2025-11-sequence-transaction-rails/S-108-L-injectsweepandcall-miscalculates-received-tokens-causing-reverts.md) | [Official Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission S-108](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-108) |
+| 2025-11 | Code4rena | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-104: Public injectAndCall allows full router asset drain](./code4rena/2025-11-sequence-transaction-rails/S-104-L-public-injectandcall-allows-full-router-asset-drain.md) | [Official Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission S-104](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-104) |
+| 2025-11 | Code4rena | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-102: Unrestricted ERC20 sweep allows router balance drain](./code4rena/2025-11-sequence-transaction-rails/S-102-L-unrestricted-erc20-sweep-allows-router-balance-drain.md) | [Official Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission S-102](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-102) |
 ## Platforms
 
 This portfolio may include findings from:
