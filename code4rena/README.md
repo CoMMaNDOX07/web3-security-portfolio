@@ -9,9 +9,9 @@ I use this section to document my Code4rena security research work, including Hi
 | Severity | Count |
 |---|---:|
 | High | 2 |
-| Medium | 4 |
-| Low / QA | 6 |
-| Total | 12 |
+| Medium | 5 |
+| Low / QA | 10 |
+| Total | 17 |
 
 ## Findings
 
@@ -29,6 +29,11 @@ I use this section to document my Code4rena security research work, including Hi
 | 2025-11 | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-108: injectSweepAndCall miscalculates received tokens, causing reverts](./2025-11-sequence-transaction-rails/S-108-L-injectsweepandcall-miscalculates-received-tokens-causing-reverts.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-108) |
 | 2025-11 | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-104: Public injectAndCall allows full router asset drain](./2025-11-sequence-transaction-rails/S-104-L-public-injectandcall-allows-full-router-asset-drain.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-104) |
 | 2025-11 | Sequence: Transaction Rails | EVM / Solidity / Multichain | Low | [S-102: Unrestricted ERC20 sweep allows router balance drain](./2025-11-sequence-transaction-rails/S-102-L-unrestricted-erc20-sweep-allows-router-balance-drain.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-sequence-transaction-rails), [Submission](https://code4rena.com/audits/2025-11-sequence-transaction-rails/submissions/S-102) |
+| 2025-11 | Swafe | Rust / Partisia / Account Recovery | Medium | [S-545: recover_backups returns stored backups, ignores marked recoveries](./2025-11-swafe/S-545-M-recover-backups-returns-stored-backups-ignores-marked-recoveries.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-545) |
+| 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-548: Threshold uses unverified shares, breaking recovery correctness](./2025-11-swafe/S-548-L-threshold-uses-unverified-shares-breaking-recovery-correctness.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-548) |
+| 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-547: Old backups undecryptable after multiple key rotations](./2025-11-swafe/S-547-L-old-backups-undecryptable-after-multiple-key-rotations.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-547) |
+| 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-546: Old backups break after multiple key rotations](./2025-11-swafe/S-546-L-old-backups-break-after-multiple-key-rotations.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-546) |
+| 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-538: Unauthorized email association overwrite allows recovery hijack](./2025-11-swafe/S-538-L-unauthorized-email-association-overwrite-allows-recovery-hijack.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-538) |
 ## Notes
 
 All findings listed here are based on public Code4rena reports or information I am allowed to disclose.
