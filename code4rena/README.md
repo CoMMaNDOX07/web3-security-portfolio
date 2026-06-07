@@ -10,14 +10,14 @@ I use this section to document my Code4rena security research work, including Hi
 |---|---:|
 | High | 0 |
 | Medium | 0 |
-| Low / QA | 0 |
-| Total | 0 |
+| Low / QA | 1 |
+| Total | 1 |
 
 ## Findings
 
 | Date | Project | Ecosystem | Severity | Finding | Official Report |
 |---|---|---|---|---|---|
-| YYYY-MM | Project Name | Ethereum | High | [H-01: Finding Title](./YYYY-MM-project-name/H-01-finding-title.md) | [Code4rena Report](PASTE_LINK_HERE) |
+| 2025-10 | Covenant | Solidity / DeFi | Low | [L-01: Undercollateralized aToken may be incorrectly priced as positive](./2025-10-covenant/L-01-undercollateralized-atoken-may-be-incorrectly-priced-as-positive.md) | [Code4rena Report](https://code4rena.com/reports/2025-10-covenant) |
 
 ## Notes
 
