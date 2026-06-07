@@ -9,9 +9,9 @@ I use this section to document my Code4rena security research work, including Hi
 | Severity | Count |
 |---|---:|
 | High | 2 |
-| Medium | 5 |
+| Medium | 6 |
 | Low / QA | 10 |
-| Total | 17 |
+| Total | 18 |
 
 ## Findings
 
@@ -34,6 +34,7 @@ I use this section to document my Code4rena security research work, including Hi
 | 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-547: Old backups undecryptable after multiple key rotations](./2025-11-swafe/S-547-L-old-backups-undecryptable-after-multiple-key-rotations.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-547) |
 | 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-546: Old backups break after multiple key rotations](./2025-11-swafe/S-546-L-old-backups-break-after-multiple-key-rotations.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-546) |
 | 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-538: Unauthorized email association overwrite allows recovery hijack](./2025-11-swafe/S-538-L-unauthorized-email-association-overwrite-allows-recovery-hijack.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-538) |
+| 2025-11 | Ekubo | EVM / Solidity / AMM / Oracle | Medium | [S-1065: Unrestricted expandCapacity overwrites oracle storage, permanently bricking](./2025-11-ekubo/S-1065-M-unrestricted-expandcapacity-overwrites-oracle-storage-permanently-bricking.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-ekubo), [Submission](https://code4rena.com/audits/2025-11-ekubo/submissions/S-1065) |
 ## Notes
 
 All findings listed here are based on public Code4rena reports or information I am allowed to disclose.
