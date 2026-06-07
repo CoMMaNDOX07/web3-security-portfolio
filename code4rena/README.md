@@ -9,7 +9,7 @@ I use this section to document my Code4rena security research work, including Hi
 | Severity | Count |
 |---|---:|
 | High | 2 |
-| Medium | 6 |
+| Medium | 7 |
 | Low / QA | 11 |
 | Total | 19 |
 
@@ -36,6 +36,7 @@ I use this section to document my Code4rena security research work, including Hi
 | 2025-11 | Swafe | Rust / Partisia / Account Recovery | Low | [S-538: Unauthorized email association overwrite allows recovery hijack](./2025-11-swafe/S-538-L-unauthorized-email-association-overwrite-allows-recovery-hijack.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-swafe), [Submission](https://code4rena.com/audits/2025-11-swafe/submissions/S-538) |
 | 2025-11 | Ekubo | EVM / Solidity / AMM / Oracle | Medium | [S-1065: Unrestricted expandCapacity overwrites oracle storage, permanently bricking](./2025-11-ekubo/S-1065-M-unrestricted-expandcapacity-overwrites-oracle-storage-permanently-bricking.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-ekubo), [Submission](https://code4rena.com/audits/2025-11-ekubo/submissions/S-1065) |
 | 2025-11 | Garden | Multichain / EVM / Solidity / Bitcoin Bridge | Low | [S-156: transfer to contracts can permanently lock ETH](./2025-11-garden/S-156-L-transfer-to-contracts-can-permanently-lock-eth.md) | [Code4rena Report](https://code4rena.com/reports/2025-11-garden), [Submission](https://code4rena.com/audits/2025-11-garden/submissions/S-156) |
+| 2026-03 | Chainlink Payment Abstraction V2 | EVM / Solidity / Chainlink | Medium | [M-01: Medium finding — details withheld](./2026-03-chainlink-payment-abstraction-v2/M-01-private-medium-finding-details-withheld.md) | [Code4rena Audit Page](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
 ## Notes
 
 All findings listed here are based on public Code4rena reports or information I am allowed to disclose.
