@@ -28,6 +28,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | Code4rena | 2 | 7 | 11 | 20 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
+| hackenproof | 0 | 0 | 0 | 0 |
 | Other | 0 | 0 | 0 | 0 |
 
 ## Findings
@@ -54,6 +55,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 | 2025-11 | Code4rena | Ekubo | EVM / Solidity / AMM / Oracle | Medium | [S-1065: Unrestricted expandCapacity overwrites oracle storage, permanently bricking](./code4rena/2025-11-ekubo/S-1065-M-unrestricted-expandcapacity-overwrites-oracle-storage-permanently-bricking.md) | [Official Report](https://code4rena.com/reports/2025-11-ekubo), [Submission S-1065](https://code4rena.com/audits/2025-11-ekubo/submissions/S-1065) |
 | 2025-11 | Code4rena | Garden | Multichain / EVM / Solidity / Bitcoin Bridge | Low | [S-156: transfer to contracts can permanently lock ETH](./code4rena/2025-11-garden/S-156-L-transfer-to-contracts-can-permanently-lock-eth.md) | [Official Report](https://code4rena.com/reports/2025-11-garden), [Submission S-156](https://code4rena.com/audits/2025-11-garden/submissions/S-156) |
 | 2026-03 | Code4rena | Chainlink Payment Abstraction V2 | EVM / Solidity / Chainlink | Medium | [M-01: Medium finding — details withheld](./code4rena/2026-03-chainlink-payment-abstraction-v2/M-01-private-medium-finding-details-withheld.md) | [Official Audit Page](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
+| HackenProof | Aptos Network | Aptos / Move / Layer 1 | Duplicate / Also Found | 3 | Details withheld due to program disclosure rules |
 ## Platforms
 
 This portfolio may include findings from:
@@ -61,6 +63,7 @@ This portfolio may include findings from:
 - Code4rena
 - Sherlock
 - Cantina
+- hackenproof
 - Other public or private audit work where disclosure is allowed
 
 ## Disclosure Policy
@@ -78,3 +81,5 @@ I do not publish:
 ## Notes
 
 External audit platforms may change, migrate, or become unavailable over time. For that reason, this repository keeps my own summaries and references for long-term portfolio purposes.
+
+Some bug bounty reports are listed only as sanitized portfolio entries. Technical details, PoCs, affected code, and vulnerability titles are withheld unless public disclosure is explicitly allowed by the program owner.
