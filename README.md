@@ -25,7 +25,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Platform | High | Medium | Low / QA | Total |
 |---|---:|---:|---:|---:|
-| Code4rena | 0 | 0 | 0 | 0 |
+| Code4rena | 0 | 0 | 1 | 1 |
 | Sherlock | 0 | 0 | 0 | 0 |
 | Cantina | 0 | 0 | 0 | 0 |
 | Immunefi | 0 | 0 | 0 | 0 |
@@ -35,8 +35,7 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Date | Platform | Project | Ecosystem | Severity | Finding | References |
 |---|---|---|---|---|---|---|
-| YYYY-MM | Code4rena | Project Name | Ethereum | High | [H-01: Finding Title](./code4rena/YYYY-MM-project-name/H-01-finding-title.md) | [Official Report](PASTE_LINK_HERE) |
-| YYYY-MM | Code4rena | Project Name | Arbitrum | Medium | [M-01: Finding Title](./code4rena/YYYY-MM-project-name/M-01-finding-title.md) | [Official Report](PASTE_LINK_HERE) |
+| 2025-10 | Code4rena | Covenant | Solidity / DeFi | Low | [L-01: Undercollateralized aToken may be incorrectly priced as positive](./code4rena/2025-10-covenant/L-01-undercollateralized-atoken-may-be-incorrectly-priced-as-positive.md) | [Official Report](https://code4rena.com/reports/2025-10-covenant), [Submission](https://code4rena.com/audits/2025-10-covenant/submissions/S-554) |
 
 ## Platforms
 
