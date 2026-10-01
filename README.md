@@ -59,7 +59,9 @@ I am a Web3 security researcher focused on smart contract auditing, blockchain p
 
 | Program | Project | Ecosystem | Reports | Disclosure Status | Details |
 |---|---|---|---:|---|---|
-| TON Security Bug Bounty | TON Blockchain | TON / C++ / TVM / Blockchain Core | 12 | Technical details withheld | [View](./responsible-disclosures/ton/README.md) |
+| TON Security Bug Bounty | TON Blockchain | TON / C++ / TVM / Blockchain Core | 12 | Valid / rewarded privately; technical details and severity breakdown withheld | [View](./responsible-disclosures/ton/README.md) |
+
+> Some responsible disclosure reports are intentionally documented only as sanitized entries. For private bug bounty work, I withhold technical details, vulnerability titles, severity breakdowns, and PoCs unless public disclosure is explicitly allowed. Redacted validation or reward evidence can be provided privately where permitted.
 
 ## Platforms
 
