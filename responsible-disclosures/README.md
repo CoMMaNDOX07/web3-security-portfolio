@@ -8,8 +8,7 @@ Some entries are intentionally sanitized because many bug bounty programs restri
 
 | Program | Project | Ecosystem | Reports | Disclosure Status | Link |
 |---|---|---|---:|---|---|
-| TON Security Bug Bounty | TON Blockchain | TON / C++ / TVM / Blockchain Core | 12 | Technical details withheld | [View](./ton/README.md) |
-
+| TON Security Bug Bounty | TON Blockchain | TON / C++ / TVM / Blockchain Core | 12 | Valid / rewarded privately; technical details and severity breakdown withheld | [View](./ton/README.md) |
 ## Disclosure Policy
 
 For private or restricted bug bounty programs, I do not publish:
