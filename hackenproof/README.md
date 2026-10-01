@@ -1,17 +1,13 @@
-# HackenProof Reports
+# HackenProof — Additional Bug Bounty Research
 
-This folder documents my HackenProof bug bounty activity.
+[Back to portfolio](../README.md)
 
-Some reports may be documented only as sanitized entries because bug bounty programs often have strict disclosure rules.
+Research identity: `CoMManDOO`.
 
-## Reports
+| Program | Recorded disposition | Reports | Entry |
+|---|---|---:|---|
+| Aptos Network | Duplicate | 3 | [Research record](./aptos-network/README.md) |
 
-| Program | Ecosystem | Status | Count | Details |
-|---|---|---|---:|---|
-| Aptos Network | Aptos / Move / Layer 1 | Duplicate / Also Found | 3 | Details withheld due to program disclosure rules |
+These duplicate submissions are tracked separately from Code4rena valid-submission totals and TON rewarded reports. No first-reporter, unique-finding, or reward claim is made for these entries.
 
-## Disclosure Note
-
-I do not publish private bug bounty report details unless the program owner explicitly allows public disclosure.
-
-For private or non-disclosed reports, I only document high-level metadata such as platform, program name, status, and count.
+Technical details and private correspondence are withheld. See the [disclosure policy](../DISCLOSURE.md).
