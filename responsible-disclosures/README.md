@@ -1,24 +1,13 @@
-# Responsible Disclosure / Bug Bounty Research
+# Responsible Disclosure
 
-This folder documents my responsible disclosure and bug bounty research outside public competitive audit platforms.
+[Back to portfolio](../README.md)
 
-Some entries are intentionally sanitized because many bug bounty programs restrict public disclosure of vulnerability details unless the project owner gives explicit permission.
+This section records bug bounty research separately from competitive audit submissions.
 
-## Programs
+| Program | Recorded outcome | Public entry |
+|---|---|---|
+| TON Security Bug Bounty | 12 validated and rewarded reports | [TON research](./ton/README.md) |
 
-| Program | Project | Ecosystem | Reports | Disclosure Status | Link |
-|---|---|---|---:|---|---|
-| TON Security Bug Bounty | TON Blockchain | TON / C++ / TVM / Blockchain Core | 12 | Valid / rewarded privately; technical details and severity breakdown withheld | [View](./ton/README.md) |
-## Disclosure Policy
+Report contents remain private. Any further information is shared only in accordance with the applicable program terms and authorization.
 
-For private or restricted bug bounty programs, I do not publish:
-
-- Vulnerability titles
-- Affected files or functions
-- Proofs of concept
-- Exploit scenarios
-- Private triage messages
-- Screenshots from private reports
-- Unreleased technical details
-
-I only document high-level metadata such as platform, project name, ecosystem, report count, and disclosure status.
+See the [portfolio disclosure policy](../DISCLOSURE.md). Duplicate bounty submissions are listed separately under [HackenProof](../hackenproof/README.md).
