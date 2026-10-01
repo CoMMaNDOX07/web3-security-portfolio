@@ -1,4 +1,4 @@
-# TON — Validated and Rewarded Security Research
+# TON - Validated and Rewarded Security Research
 
 [Back to responsible disclosure](../README.md) · [Portfolio](../../README.md)
 
