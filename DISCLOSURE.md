@@ -1,29 +1,53 @@
-# Evidence, Attribution, and Disclosure
+# Evidence, Attribution & Responsible Disclosure
 
-[Back to portfolio](./README.md)
+[Back to Portfolio](./README.md)
 
-## Counting results
+## Research Outcomes
 
-**Code4rena:** totals count individual valid submissions recorded in my contest results. Related submissions may share a final-report issue. These totals do not claim the same number of unique vulnerabilities.
+**Competitive Audits:** Code4rena statistics represent valid individual submissions. Multiple submissions may correspond to the same vulnerability in a final audit report.
 
-**TON:** validated and rewarded reports are recorded separately from competitive audit submissions. Private records are not presented as public project acknowledgements.
+**Blockchain Security Research:** Validated report counts include reports confirmed as valid, including submissions concerning previously reported vulnerabilities.
 
-**HackenProof:** duplicate reports are a separate research category. They are not added to valid unique-finding totals or described as rewarded without supporting evidence.
+**Rewarded Research:** Rewarded bug bounty reports are counted separately from other validated submissions and are based on private bounty records.
 
-## Evidence and attribution
+**Public Recognition:** Official leaderboard entries and public audit reports are linked where available. Public recognition does not independently establish every private report's validity, severity, reward amount, or technical details.
 
-A public report can support an issue's description, final severity, and named attribution. A submission link identifies an individual report but may require authentication. Public issue IDs, submission IDs, and locally assigned portfolio labels are distinguished.
+**Additional Research:** Listed codebases and ecosystems represent security research activity and do not imply that every target resulted in a rewarded or unique vulnerability.
 
-A matching code change alone does not establish authorship or prove that a private report caused the fix. Suggested mitigation is not the same as confirmed remediation. Report-level statuses are retained from the corresponding results or records; public confirmation is linked where available.
+**Counting Methodology:** Rewarded reports are a subset of validated reports. These figures must not be added together to calculate a unique vulnerability total.
 
-## Technical write-ups
+## Evidence and Attribution
 
-Write-ups distinguish the reported behavior, affected-version assumptions, impact limitations, suggested mitigation, and published verification evidence. An illustrative scenario or unexecuted test is not described as a reproduced result. Shortened display titles do not change original submission titles or final severity.
+Public audit reports, official leaderboard records, and publicly available references support research attribution.
 
-## Confidential work
+A matching code change alone does not establish authorship or prove that a private vulnerability report caused the fix.
 
-Publication follows the applicable program terms and any specific authorization, including for aggregate counts and severity statistics. Public code, payment, or a resolved status does not by itself authorize publication of a private report.
+Suggested mitigations are distinguished from confirmed remediation.
 
-Confidential titles, report contents, exploit details, screenshots, private communications, and report-to-fix mappings are withheld unless publication is authorized. Hiring-related verification is also subject to those permissions.
+## Technical Research
 
-Portfolio inclusion does not imply sponsorship or endorsement by a named project.
+Technical write-ups distinguish reported behavior, affected-version assumptions, impact limitations, mitigation recommendations, and available verification evidence.
+
+Illustrative scenarios and unexecuted tests are not presented as independently reproduced results.
+
+## Confidential Research
+
+Publication follows applicable bug bounty program terms and specific authorization, including restrictions on aggregate statistics.
+
+The following information is withheld where disclosure is restricted:
+
+- Vulnerability titles and technical details
+- Private severity classifications
+- Affected code and exploit scenarios
+- Proofs of concept
+- Private triage communications
+- Report-to-commit mappings
+- Reward amounts
+
+Further professional verification is subject to applicable disclosure permissions.
+
+## Portfolio Integrity
+
+This portfolio distinguishes publicly attributed findings, privately validated reports, rewarded security research, and additional research activity.
+
+Portfolio inclusion does not imply sponsorship, employment, or endorsement by any named project.
